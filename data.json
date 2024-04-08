@@ -1,0 +1,75 @@
+[
+    {
+      "id": 1,
+      "estate_title": "Luxury Penthouse with Ocean View",
+      "segment_name": "Penthouse",
+      "description": "Stunning penthouse offering breathtaking ocean views. Spacious interiors, modern design, and top-notch amenities.",
+      "price": "$5,000,000",
+      "status": "sale",
+      "area": "3000 sq ft",
+      "location": "Miami, Florida",
+      "facilities": ["Spa", "Private Terrace", "Gym"],
+      "image": "https://i.ibb.co/bXcN38m/mike-swigunski-a-DGq-J5j-LZQ-unsplash.jpg"
+    },
+    {
+      "id": 2,
+      "estate_title": "Exquisite Beachfront Villa",
+      "segment_name": "Beachfront Properties",
+      "description": "Elegant villa located directly on the beach. Impeccable craftsmanship, luxurious finishes, and panoramic ocean views.",
+      "price": "$8,500,000",
+      "status": "sale",
+      "area": "5000 sq ft",
+      "location": "Malibu, California",
+      "facilities": ["Infinity Pool", "Private Beach Access", "Home Theater"],
+      "image": "https://i.ibb.co/Pc4ghXL/ethan-hoover-N1vd-Gc-Hcr-KI-unsplash.jpg"
+    },
+    {
+      "id": 3,
+      "estate_title": "Luxury Resort Retreat",
+      "segment_name": "Resorts",
+      "description": "Exclusive resort offering ultimate luxury and privacy. Lush surroundings, world-class amenities, and personalized service.",
+      "price": "$15,000,000",
+      "status": "sale",
+      "area": "10 acres",
+      "location": "Bora Bora, French Polynesia",
+      "facilities": ["Spa", "Multiple Restaurants", "Private Villas"],
+      "image": "https://i.ibb.co/JxJBQPS/sasha-kaunas-TAg-GZWz6-Qg8-unsplash.jpg"
+    },
+    {
+      "id": 4,
+      "estate_title": "Private Island Paradise",
+      "segment_name": "Private Islands",
+      "description": "Own your private island paradise. Pristine beaches, turquoise waters, and endless opportunities for relaxation and adventure.",
+      "price": "$20,000,000",
+      "status": "sale",
+      "area": "50 acres",
+      "location": "The Bahamas",
+      "facilities": ["Beachfront Villas", "Yacht Dock", "Helipad"],
+      "image": "https://i.ibb.co/WcR6kv0/cauayan-island-resort-7-O1m-Q9s-Xys0-unsplash.jpg"
+    },
+    {
+      "id": 5,
+      "estate_title": "Luxurious Mediterranean Villa",
+      "segment_name": "Villas",
+      "description": "Magnificent villa nestled in lush gardens. Timeless elegance, stunning views, and unparalleled luxury living.",
+      "price": "$7,200,000",
+      "status": "sale",
+      "area": "7000 sq ft",
+      "location": "Marbella, Spain",
+      "facilities": ["Infinity Pool", "Outdoor Kitchen", "Tennis Court"],
+      "image": "https://i.ibb.co/s9rT23V/kilarov-zaneit-a-Xq37r-Ufot-U-unsplash.jpg"
+    },
+    {
+      "id": 6,
+      "estate_title": "Grand Mansion Estate",
+      "segment_name": "Mansions",
+      "description": "Iconic mansion with grandeur and sophistication. Lavish interiors, expansive grounds, and exquisite details throughout.",
+      "price": "$25,000,000",
+      "status": "sale",
+      "area": "15,000 sq ft",
+      "location": "Bel Air, Los Angeles",
+      "facilities": ["Ballroom", "Wine Cellar", "Home Theater"],
+      "image": "https://i.ibb.co/PgLLVrP/nick-romanov-hw4a-UQ81ic-unsplash.jpg"
+    }
+  ]
+  
